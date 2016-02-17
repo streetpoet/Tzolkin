@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">卓尔金历</string>
+    <string name="main_activity_title">玛雅卓尔金历</string>
+    <string name="action_settings">转到今日</string>
+    <string name="action_settings2">查看特定日期KIN</string>
+    <string name="action_settings3">联系开发者</string>
+</resources>
